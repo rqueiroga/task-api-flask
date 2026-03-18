@@ -11,7 +11,7 @@ Este projeto foi criado para praticar:
 - Criação de APIs REST
 - Integração com banco de dados
 - Organização de código 
-- Boas práticas com Flask
+- Flask
 
 ---
 
@@ -24,7 +24,7 @@ Este projeto foi criado para praticar:
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades:
 
 - ✅ Criar tarefas
 - ✅ Listar tarefas
@@ -33,7 +33,7 @@ Este projeto foi criado para praticar:
 
 ---
 
-## ▶️ Como rodar o projeto
+## ▶️ Como rodar o projeto:
 
 ```bash
 # Para clonar o repositório:
@@ -42,15 +42,15 @@ git clone https://github.com/rqueiroga/task-api-flask.git
 # Para entrar na pasta:
 cd task-api-flask
 
-# Para criar ambiente virtual:
+# Para criar o ambiente virtual:
 python -m venv venv
 
-# Para ativar ambiente:
+# Para ativar o ambiente:
 venv\Scripts\activate   # Windows
 source venv/bin/activate # Linux/Mac
 
-# Para instalar dependências:
+# Para instalar as dependências:
 pip install -r requirements.txt
 
-# Para rodar a aplicação:
+# Para rodar o código:
 python app.py
